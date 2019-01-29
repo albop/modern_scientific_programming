@@ -1,0 +1,9 @@
+name: model-scientific_programming
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - dill
+  - pandas
+  - scipy
