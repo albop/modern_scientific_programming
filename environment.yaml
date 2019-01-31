@@ -7,4 +7,3 @@ dependencies:
   - dill
   - pandas
   - scipy
-  - nano
