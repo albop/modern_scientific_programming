@@ -1,4 +1,4 @@
-name: model-scientific_programming
+name: modern_scientific_programming
 channels:
   - conda-forge
 dependencies:
