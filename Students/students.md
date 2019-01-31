@@ -20,3 +20,32 @@
 - memory: 4 GB 1600Mhz
 - research interest: Inequality and Income Distribution
 - expectations: Learning webscrapping and text analysis
+
+## Caroline
+- identifier: eniloracyloc
+- last name: Coly
+- first name: Caroline
+- operating system: N/A
+- memory: N/A
+- research interest: Labour economics
+- expectations: scrap text and analyse it
+
+## Guillaume
+
+- identifier: gnoblet
+- last name: noblet
+- first name: guillaume
+- operating system: manjaro
+- memory: 8go
+- research interest: topic modelling, text analysis, network analysis, quantitative history of economics
+- expectations: get insights on text analysis in python
+
+## Cem
+
+- identifier:
+- last name: Ozguzel
+- first name: Cem
+- operating system: IOS
+- memory: 8 GB
+- research interest:International Migration, Labor
+- expectations: Get familiar with all of these tools (e.g. Python, Julia etc.), learn more about webscrapping for collecting data.
