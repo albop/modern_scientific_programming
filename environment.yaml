@@ -1,4 +1,4 @@
-name: model-scientific_programming
+name: modern_scientific_programming
 channels:
   - conda-forge
 dependencies:
@@ -7,3 +7,4 @@ dependencies:
   - dill
   - pandas
   - scipy
+  - nano
