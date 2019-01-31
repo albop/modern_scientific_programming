@@ -24,6 +24,7 @@
 ## David
 
 - identifier: DavidRhysBernard
+- email: david.rhys.bernard@gmail.com
 - last name: Bernard
 - first name:  David
 - operating system: Windows 10 
