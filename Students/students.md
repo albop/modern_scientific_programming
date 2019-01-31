@@ -4,11 +4,12 @@
 
 - identifier:
 - last name:
-- first name:
-- operating system:
+- first name:  
+- operating system:  
 - memory:
 - research interest:
-- expectations: 
+- expectations:
+
 
 
 ## Martin
@@ -59,6 +60,16 @@
 - memory: 8 GB
 - research interest:International Migration, Labor
 - expectations: Get familiar with all of these tools (e.g. Python, Julia etc.), learn more about webscrapping for collecting data.
+
+## Antoine
+
+- identifier: SuperMayo
+- last name: Mayerowitz
+- first name: Antoine
+- operating system: MacOs Mojave
+- memory: 8
+- research interest: TBD
+- expectations: Conquer the world
 
 ## Manon
 
