@@ -10,6 +10,15 @@
 - research interest:
 - expectations: 
 
+## Jaime
+
+- identifier: Jaimito30
+- last name: Leyva
+- first name: Jaime
+- operating system: mac os mojave
+- memory: 8GB
+- research interest: Macro-finance, dynamic programming 
+- expectations: 
 
 ## Paolo
 
@@ -20,9 +29,6 @@
 - memory: 8G (I guess)
 - research interest:Inequality, network, choice of collaboration
 - expectations: I expect to learn how to use python to analyse networks and how to use it for my analysis
-
-
-
 
 ## Martin
 
