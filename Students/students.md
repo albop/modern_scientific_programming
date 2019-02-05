@@ -130,3 +130,13 @@
 - memory: 4 Go 1600 MHz DDR3
 - research interest: International Corporate Taxation
 - expectations: increase coding efficiency and learn new techniques
+
+## Simon
+
+- identifier: SimonBunel
+- last name: Bunel
+- first name: Simon
+- operating system: macOS X El Capitan
+- memory: 4 GB
+- research interest: Innovation, patents, etc.
+- expectations: network analysis and learn a bit about scrapping
