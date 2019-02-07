@@ -1,18 +1,9 @@
 # Students list
 
-## Pablo
-
-- identifier:
-- last name:
-- first name:  
-- operating system:  
-- memory:
-- research interest:
-- expectations: 
-
 ## Amit
 
 - identifier: amitdekel
+- email: amit.dek@gmail.com
 - last name: Dekel
 - first name: Amit
 - operating system: Windows 10
@@ -23,6 +14,7 @@
 ## Jaime
 
 - identifier: Jaimito30
+- email: jaime.leyva@psemail.eu
 - last name: Leyva
 - first name: Jaime
 - operating system: mac os mojave
@@ -33,6 +25,7 @@
 ## Paolo
 
 - identifier: paolosantini
+- email: paolo.santini5@gmail.com
 - last name: Santini
 - first name:Paolo
 - operating system: Windows 
@@ -43,6 +36,7 @@
 ## Martin
 
 - identifier: MartinJgd
+- email: martin.jegard@gmail.com
 - last name: Jegard
 - first name: Martin
 - operating system: Windows 10
@@ -53,6 +47,7 @@
 ## Yajna
 
 - identifier: yaz26
+- email: yajna.govind@psemail.eu
 - last name: Govind
 - first name: Yajna
 - operating system: macOS X El Capitan
@@ -62,6 +57,7 @@
 
 ## Caroline
 - identifier: eniloracyloc
+- email: caroline.coly@psemail.eu
 - last name: Coly
 - first name: Caroline
 - operating system: N/A
@@ -72,6 +68,7 @@
 ## Guillaume
 
 - identifier: gnoblet
+- email: Guillaume.noblet@univ-paris1.fr
 - last name: noblet
 - first name: guillaume
 - operating system: manjaro
@@ -82,6 +79,7 @@
 ## Cem
 
 - identifier:
+- email: cemozguzel@gmail.com
 - last name: Ozguzel
 - first name: Cem
 - operating system: IOS
@@ -104,6 +102,7 @@
 ## Thomas
 
 - identifier: thomasszuber
+- email: thomas.zuber@psemail.eu
 - last name: Zuber  
 - first name: Thomas
 - operating system: OSX 
@@ -114,6 +113,7 @@
 ## Antoine
 
 - identifier: SuperMayo
+- email: a.mayerowitz@gmail.com
 - last name: Mayerowitz
 - first name: Antoine
 - operating system: MacOs Mojave
@@ -124,6 +124,7 @@
 ## Manon
 
 - identifier: mfranc01  
+- email: manon.francois@psemail.eu
 - last name: FRANCOIS
 - first name:  Manon
 - operating system:  OSX
@@ -134,6 +135,7 @@
 ## Simon
 
 - identifier: SimonBunel
+- email: simonbunel@gmail.com 
 - last name: Bunel
 - first name: Simon
 - operating system: macOS X El Capitan
