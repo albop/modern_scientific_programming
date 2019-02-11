@@ -140,3 +140,14 @@
 - memory: 4 GB
 - research interest: Innovation, patents, etc.
 - expectations: network analysis and learn a bit about scrapping
+
+## Emanuele
+
+- identifier: ceschi
+- email: emanuele.franceschi@gmail.com
+- last name: Franceschi
+- first name: Emanuele
+- OS: Win10/debian stretch
+- memory: 16 GB
+- research interest: monetary macro, firm dynamics
+- expectations: hands on Python/Julia, deepening ancillary tools
