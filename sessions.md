@@ -36,5 +36,6 @@ Feb 27:
 Feb 28:
 - Visualization
 - Reproducible research
+- Virtualization
 
 Leftovers: parallelism, performance python, ...
