@@ -9,3 +9,5 @@ dependencies:
   - scipy
   - seaborn
   - bqplot
+  - altair
+  - vega_datasets
