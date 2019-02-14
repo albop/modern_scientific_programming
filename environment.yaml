@@ -7,7 +7,3 @@ dependencies:
   - dill
   - pandas
   - scipy
-  - seaborn
-  - bqplot
-  - altair
-  - vega_datasets
