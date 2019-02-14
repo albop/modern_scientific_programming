@@ -7,3 +7,5 @@ dependencies:
   - dill
   - pandas
   - scipy
+  - seaborn
+  - bqplot
