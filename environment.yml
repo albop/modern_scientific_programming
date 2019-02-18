@@ -7,4 +7,4 @@ dependencies:
   - scipy
   - pandas
   - altair
-  - vega-data
+  - vega_datasets
