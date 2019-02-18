@@ -8,3 +8,4 @@ dependencies:
   - pandas
   - altair
   - vega_datasets
+  - seaborn
