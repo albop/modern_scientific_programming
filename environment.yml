@@ -4,5 +4,7 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - pandas
   - scipy
+  - pandas
+  - altair
+  - vega-data
