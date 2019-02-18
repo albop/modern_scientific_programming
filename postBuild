@@ -2,6 +2,4 @@ jupyter labextension install @jupyterlab/git
 pip install jupyterlab-git
 jupyter serverextension enable --py jupyterlab_git
 jupyter labextension install @jupyterlab/toc
-jupyter labextension install jupyterlab-drawio
-jupyter labextension install bqplot
 
