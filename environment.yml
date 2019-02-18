@@ -9,3 +9,4 @@ dependencies:
   - altair
   - vega_datasets
   - seaborn
+  - openpyxl
