@@ -4,6 +4,9 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - dill
-  - pandas
   - scipy
+  - pandas
+  - altair
+  - vega_datasets
+  - seaborn
+  - openpyxl

@@ -1,4 +1,6 @@
-Jan 31: 
++ sign means
+
+Jan 31:
 - General introduction.
 - Computer setup.
 - Introduction to Python (1)
@@ -8,7 +10,6 @@ Feb 5:
 
 Feb 7: Cancelled
 
---
 
 Feb 12:
 - Introduction to Python (2)
@@ -16,26 +17,34 @@ Feb 12:
 
 Feb 14:
 - Numeric Python: numpy, scipy, matplotlib
-- Data manipulation: pandas DataFrames
+--
 
 Feb 19:
+- Numeric Python (2): exercises
+- DataFrames (1)
++ installation
+
+---
+
+Feb 21:
+- DataFrames (2): exercises
+- Statistics & Machine learning (1)
++ deeplearning demo
+
+
+Feb 26:
+- Machine learning (2)
+
+Feb 27:
 - Regular Expressions
 - Web scraping
 - Text Analysis
 
-Feb 21:
+Feb 28:
 - Graph algorithms
 - Network Analysis (1)
 
-Feb 26:
-- Machine learning (1)
 
-Feb 27:
-- Machine learning (2: neural networks)
 
-Feb 28:
-- Visualization
-- Reproducible research
-- Virtualization
-
-Leftovers: parallelism, performance python, ...
+Leftovers: parallelism, performance python, reproducible research ...,
+machine learning (2: neural networks)
