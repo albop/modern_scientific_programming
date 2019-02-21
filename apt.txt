@@ -1,3 +1,4 @@
 nano
 git
 htop
+unzip
