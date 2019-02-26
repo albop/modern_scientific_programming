@@ -21,19 +21,18 @@ Feb 14:
 
 Feb 19:
 - Numeric Python (2): exercises
-- DataFrames (1)
 + installation
 
 ---
 
 Feb 21:
-- DataFrames (2): exercises
-- Statistics & Machine learning (1)
-+ deeplearning demo
+- DataFrames
 
 
 Feb 26:
+- Statistics & Machine learning (1)
 - Machine learning (2)
++projects
 
 Feb 27:
 - Regular Expressions
@@ -43,7 +42,7 @@ Feb 27:
 Feb 28:
 - Graph algorithms
 - Network Analysis (1)
-
++ deeplearning demo
 
 
 Leftovers: parallelism, performance python, reproducible research ...,

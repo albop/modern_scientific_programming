@@ -10,3 +10,4 @@ dependencies:
   - vega_datasets
   - seaborn
   - openpyxl
+  - tensorflow
