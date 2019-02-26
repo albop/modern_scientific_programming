@@ -149,7 +149,7 @@
 - email: emanuele.franceschi@gmail.com
 - last name: Franceschi
 - first name: Emanuele
-- OS: Win10/debian stretch
+- operating system: Win10/debian stretch
 - memory: 16 GB
 - research interest: monetary macro, firm dynamics
 - expectations: hands on Python/Julia, deepening ancillary tools
