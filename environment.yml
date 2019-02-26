@@ -11,3 +11,5 @@ dependencies:
   - seaborn
   - openpyxl
   - tensorflow
+  - statsmodels
+  - scikit-learn
