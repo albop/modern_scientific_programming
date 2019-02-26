@@ -10,3 +10,5 @@ dependencies:
   - vega_datasets
   - seaborn
   - openpyxl
+  - statsmodels
+  - scikits-learn
