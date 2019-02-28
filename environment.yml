@@ -10,7 +10,6 @@ dependencies:
   - vega_datasets
   - seaborn
   - openpyxl
-  - tensorflow
   - statsmodels
   - scikit-learn
   - networkx
