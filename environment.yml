@@ -13,3 +13,4 @@ dependencies:
   - tensorflow
   - statsmodels
   - scikit-learn
+  - networkx

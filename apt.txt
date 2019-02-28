@@ -2,3 +2,4 @@ nano
 git
 htop
 unzip
+graphviz
