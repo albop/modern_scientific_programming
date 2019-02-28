@@ -1,4 +1,5 @@
 pip install dbnomics
+pip install tqdm
 jupyter labextension install @jupyterlab/git
 pip install jupyterlab-git
 jupyter serverextension enable --py jupyterlab_git
