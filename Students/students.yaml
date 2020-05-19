@@ -1,7 +1,7 @@
 - {email: amit.dek@gmail.com, expectations: write code more efficiently, first name: Amit,
-  identifier: amitdekel, last name: Dekel, memory: '', operating system: Windows 10,
-  research interest: Social networks}
-- {email: jaime.leyva@psemail.eu, expectations: '', first name: Jaime, identifier: Jaimito30,
+  identifier: amitdekel, last name: Dekel, memory: null, operating system: Windows
+    10, research interest: Social networks}
+- {email: jaime.leyva@psemail.eu, expectations: null, first name: Jaime, identifier: Jaimito30,
   last name: Leyva, memory: 8GB, operating system: mac os mojave, research interest: 'Macro-finance,
     dynamic programming'}
 - {email: paolo.santini5@gmail.com, expectations: I expect to learn how to use python
@@ -24,7 +24,7 @@
     analysis, quantitative history of economics'}
 - {email: cemozguzel@gmail.com, expectations: 'Get familiar with all of these tools
     (e.g. Python, Julia etc.), learn more about webscrapping for collecting data.',
-  first name: Cem, identifier: '', last name: Ozguzel, memory: 8 GB, operating system: IOS,
+  first name: Cem, identifier: null, last name: Ozguzel, memory: 8 GB, operating system: IOS,
   research interest: 'International Migration, Labor'}
 - {email: david.rhys.bernard@gmail.com, expectations: 'More efficient coding, reproducible
     research', first name: David, identifier: DavidRhysBernard, last name: Bernard,
